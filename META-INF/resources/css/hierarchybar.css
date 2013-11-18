@@ -1,0 +1,18 @@
+svg {
+  font-size: 14px;
+}
+
+rect.background {
+  fill: none;
+  pointer-events: all;
+}
+
+.axis {
+  shape-rendering: crispEdges;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  stroke-width: .5px;
+}

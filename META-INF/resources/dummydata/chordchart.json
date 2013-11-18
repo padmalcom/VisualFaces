@@ -1,0 +1,247 @@
+[
+	{
+		"name": "Excelsior",
+		"latitude": "37.7244",
+		"longitude": "-122.421",
+		"population": "0.083884",
+		"color": "#E41A1C"
+	},
+	{
+		"name": "Crocker Amazon",
+		"latitude": "37.7107",
+		"longitude": "-122.4372",
+		"population": "0.058439",
+		"color": "#FFFF33"
+	},
+	{
+		"name": "Marina",
+		"latitude": "37.8021",
+		"longitude": "-122.4369",
+		"population": "0.40364",
+		"color": "#FF7F00"
+	},
+	{
+		"name": "Nob Hill",
+		"latitude": "37.793",
+		"longitude": "-122.416",
+		"population": "0.33259",
+		"color": "#FF7F00"
+	},
+	{
+		"name": "North Beach",
+		"latitude": "37.8045",
+		"longitude": "-122.4076",
+		"population": "0.28784",
+		"color": "#FF7F00"
+	},
+	{
+		"name": "Pacific Heights",
+		"latitude": "37.7924",
+		"longitude": "-122.4352",
+		"population": "0.33382",
+		"color": "#FF7F00"
+	},
+	{
+		"name": "Presidio Heights",
+		"latitude": "37.7868",
+		"longitude": "-122.4538",
+		"population": "0.19965",
+		"color": "#FF7F00"
+	},
+	{
+		"name": "Russian Hill",
+		"latitude": "37.8014",
+		"longitude": "-122.4182",
+		"population": "0.34165",
+		"color": "#FF7F00"
+	},
+	{
+		"name": "Visitacion Valley",
+		"latitude": "37.7144",
+		"longitude": "-122.4113",
+		"population": "0.064774",
+		"color": "#999999"
+	},
+	{
+		"name": "Diamond Heights",
+		"latitude": "37.7423",
+		"longitude": "-122.4423",
+		"population": "0.074148",
+		"color": "#984EA3"
+	},
+	{
+		"name": "Glen Park",
+		"latitude": "37.7378",
+		"longitude": "-122.4316",
+		"population": "0.1226",
+		"color": "#984EA3"
+	},
+	{
+		"name": "Inner Sunset",
+		"latitude": "37.7584",
+		"longitude": "-122.4654",
+		"population": "0.18995",
+		"color": "#984EA3"
+	},
+	{
+		"name": "Lakeshore",
+		"latitude": "37.7225",
+		"longitude": "-122.4885",
+		"population": "0.092602",
+		"color": "#984EA3"
+	},
+	{
+		"name": "Outer Mission",
+		"latitude": "37.7239",
+		"longitude": "-122.4439",
+		"population": "0.10242",
+		"color": "#984EA3"
+	},
+	{
+		"name": "West Of Twin Peaks",
+		"latitude": "37.7373",
+		"longitude": "-122.4589",
+		"population": "0.12473",
+		"color": "#984EA3"
+	},
+	{
+		"name": "Bayview",
+		"latitude": "37.73",
+		"longitude": "-122.3855",
+		"population": "0.10309",
+		"color": "#377EB8"
+	},
+	{
+		"name": "Bernal Heights",
+		"latitude": "37.7399",
+		"longitude": "-122.4169",
+		"population": "0.20043",
+		"color": "#377EB8"
+	},
+	{
+		"name": "Castro",
+		"latitude": "37.7624",
+		"longitude": "-122.4348",
+		"population": "0.34092",
+		"color": "#377EB8"
+	},
+	{
+		"name": "Haight",
+		"latitude": "37.7692",
+		"longitude": "-122.4463",
+		"population": "0.29559",
+		"color": "#377EB8"
+	},
+	{
+		"name": "Mission",
+		"latitude": "37.7589",
+		"longitude": "-122.4153",
+		"population": "0.42583",
+		"color": "#377EB8"
+	},
+	{
+		"name": "Noe",
+		"latitude": "37.7493",
+		"longitude": "-122.433",
+		"population": "0.25158",
+		"color": "#377EB8"
+	},
+	{
+		"name": "Parkside",
+		"latitude": "37.7411",
+		"longitude": "-122.4892",
+		"population": "0.092271",
+		"color": "#377EB8"
+	},
+	{
+		"name": "Potrero",
+		"latitude": "37.7583",
+		"longitude": "-122.393",
+		"population": "0.26353",
+		"color": "#377EB8"
+	},
+	{
+		"name": "South Of Market",
+		"latitude": "37.7764",
+		"longitude": "-122.3994",
+		"population": "0.55316",
+		"color": "#377EB8"
+	},
+	{
+		"name": "Twin Peaks",
+		"latitude": "37.752",
+		"longitude": "-122.45",
+		"population": "0.13105",
+		"color": "#377EB8"
+	},
+	{
+		"name": "Western Addition",
+		"latitude": "37.7804",
+		"longitude": "-122.4332",
+		"population": "0.41192",
+		"color": "#377EB8"
+	},
+	{
+		"name": "Inner Richmond",
+		"latitude": "37.7802",
+		"longitude": "-122.4652",
+		"population": "0.21194",
+		"color": "#4DAF4A"
+	},
+	{
+		"name": "Outer Richmond",
+		"latitude": "37.778",
+		"longitude": "-122.4928",
+		"population": "0.18916",
+		"color": "#4DAF4A"
+	},
+	{
+		"name": "Outer Sunset",
+		"latitude": "37.7553",
+		"longitude": "-122.4938",
+		"population": "0.12363",
+		"color": "#4DAF4A"
+	},
+	{
+		"name": "Seacliff",
+		"latitude": "37.7841",
+		"longitude": "-122.5009",
+		"population": "0.091937",
+		"color": "#4DAF4A"
+	},
+	{
+		"name": "Golden Gate Park",
+		"latitude": "37.7689",
+		"longitude": "-122.4828",
+		"population": "0.15941",
+		"color": "#4DAF4A"
+	},
+	{
+		"name": "Chinatown",
+		"latitude": "37.7941",
+		"longitude": "-122.407",
+		"population": "0.24273",
+		"color": "#F781BF"
+	},
+	{
+		"name": "Downtown",
+		"latitude": "37.7835",
+		"longitude": "-122.4158",
+		"population": "0.44235",
+		"color": "#F781BF"
+	},
+	{
+		"name": "Financial District",
+		"latitude": "37.7915",
+		"longitude": "-122.3988",
+		"population": "0.49915",
+		"color": "#F781BF"
+	},
+	{
+		"name": "Ocean View",
+		"latitude": "37.7178",
+		"longitude": "-122.4622",
+		"population": "0.076638",
+		"color": "#A65628"
+	}
+]

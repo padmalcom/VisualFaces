@@ -1,0 +1,50 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "analytics",
+   "children": [
+    {
+     "name": "cluster",
+     "children": [
+      {"name": "Tuba", "size": 3938},
+      {"name": "Posaune", "size": 3812},
+      {"name": "Oboe", "size": 6714},
+      {"name": "Trompete", "size": 5012}
+     ]
+    },
+    {
+     "name": "graph",
+     "children": [
+      {"name": "Saxophon", "size": 3534},
+      {"name": "Klarinette", "size": 5731},
+      {"name": "Fluegelhorn", "size": 7840},
+      {"name": "Horn", "size": 5914}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "animate",
+   "children": [
+    {"name": "Gesang", "size": 17010},
+    {"name": "Operngesang", "size": 5842},
+    {
+     "name": "interpolate",
+     "children": [
+      {"name": "Geige", "size": 1983},
+      {"name": "Chello", "size": 2047},
+      {"name": "Kontrabass", "size": 2375},
+      {"name": "Violine", "size": 8746},
+      {"name": "Bratsche", "size": 2202},
+      {"name": "Violoncello", "size": 3382},
+      {"name": "Viola", "size": 1629}
+     ]
+    }
+   ]
+  },
+  {"name": "Klavier", "size": 10842},
+  {"name": "Gitarre", "size": 7842}
+  
+ ]
+}
