@@ -7,6 +7,7 @@ but also as an example for using my [JSF component tutorial](http://www.jofre.de
 ## License
 
 VisualFaces is published under the MIT [license](LICENSE.md). Additionally, the word cloud requires a separate [license](WORDCLOUDLICENSE.md).
+Whenever you use VisualFaces in a commercial or non commercial project I'd be happy to be contacted via my blog and named in a kind of credits file.
 
 ## Features
 
@@ -22,6 +23,8 @@ VisualFaces is published under the MIT [license](LICENSE.md). Additionally, the 
 	* Parallel Set
 	* Transition Diagram
 	* Collapsible Intended Treemap
+	* Choropleth
+	* 3D Globe
 
 ## Usage
 
@@ -31,6 +34,11 @@ VisualFaces is published under the MIT [license](LICENSE.md). Additionally, the 
            e.g. <j:bubblechart width="600" height="600" />
 	4. Specify the input via the input tag. You can either use Strings or URLs to files containing a txt file.
            If you do not use the enter tag, the library picks a dummy input from META-INF\resources\dummydata.
+		   
+## Planned improvements
+
+	* Some components are difficult to align on an HTML page. This is because of some troubles I had during positioning the SVG structures.
+	* The Choropleth is only enabled to show maps of Germany. If there is anyone having topojson files for any other country I'd be happe to get them.
 
 ## Screenshots
 
@@ -46,3 +54,5 @@ VisualFaces is published under the MIT [license](LICENSE.md). Additionally, the 
 ![SunburstChart](/screenshots/SunburstChart.png "SunburstChart")
 ![TransitionDiagram](/screenshots/TransitionDiagram.png "TransitionDiagram")
 ![CollapsibleIntendedTree](/screenshots/CollapsibleIntendedTree.png "CollapsibleIntendedTree")
+![Choropleth](/screenshots/Choropleth.png "Choropleth")
+![3DGlobe](/screenshots/3DGlobe.png "3DGlobe")
